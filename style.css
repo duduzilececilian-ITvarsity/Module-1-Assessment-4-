@@ -1,0 +1,38 @@
+#menu{
+    background-color: teal;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 100%;
+
+}
+#menu a{
+    color: white;
+    font-family: Helvetica, sans-serif;
+    font-size: 18px;
+    text-decoration: none;
+    font-weight: 800;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid g#00e6e6;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: teal;
+  }
+
+  h1{
+      text-align: center;
+      color: white ;
+      background-color: teal;
+
+  }
